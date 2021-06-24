@@ -1,0 +1,38 @@
+h1:hover
+{
+    background-color:yellow;
+}
+h1
+{
+    
+    background-color:tomato;
+    margin-left: 900px;
+    text-align: center;
+}
+body
+{
+    background-color: teal;
+}
+.main_con
+{
+
+}
+.head
+{
+    position:absolute;
+}
+.img
+{
+    position:absolute;
+}
+.btn
+{
+    margin-left: 900px;
+    cursor:pointer;
+    position: relative;
+    padding:1rem 2rem;
+    border-radius- 3.75em;
+    line-hight :2.5rem;
+    font-size: 2rem;
+    font-weight: 600px;
+}
